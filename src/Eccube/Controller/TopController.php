@@ -24,6 +24,6 @@ class TopController extends AbstractController
      */
     public function index()
     {
-        return [];
+        return ["test"=>"test"];
     }
 }
